@@ -23,6 +23,12 @@
 
 ###
 
+<img align="left" height="150" src="https://media.discordapp.net/attachments/809512456745385984/1201591314454695986/image0-9.gif?ex=65ca601d&is=65b7eb1d&hm=f7d6f642945644e9f4d86f18425621360df8ac8899e7c983763990b25a23a40d&="  />
+
+###
+
+<br clear="both">
+
 <div align="left">
   <a href="youtube.com/flamebladee" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -34,9 +40,5 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.discordapp.net/attachments/809512456745385984/1201591314454695986/image0-9.gif?ex=65ca601d&is=65b7eb1d&hm=f7d6f642945644e9f4d86f18425621360df8ac8899e7c983763990b25a23a40d&="  />
 
 ###
